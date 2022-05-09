@@ -1,0 +1,21 @@
+{
+  "name": "waffle-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "minecraft-server-util": "^5.2.9",
+    "mongoose": "^6.3.1",
+    "sourcebin_js": "^0.0.3-ignore",
+    "wokcommands": "^1.5.3"
+  }
+}
